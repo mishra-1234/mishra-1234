@@ -49,29 +49,28 @@
   I work with <b>Java, Spring Boot, Angular, TypeScript and MySQL</b>, and I enjoy applying OOP, database management, REST API development and problem-solving to real software projects.
 </p>
 
-```java
-public class DibyajeetMishra {
-
-    String role      = "Java Full Stack Developer";
-    String location  = "Bhadrak, Odisha, India 🇮🇳";
-    String education = "MCA @ Centurion University (CGPA 8.19)";
-
-    String[] stack = { "Java", "Spring Boot", "Angular", "TypeScript", "MySQL" };
-    String[] tools = { "Git", "GitHub", "Maven", "IntelliJ IDEA", "Postman" };
-
-    String currentFocus = "REST APIs, Spring Data JPA & Angular";
-    String lookingFor   = "Entry-level Java Full Stack role 🚀";
-
-    public static void main(String[] args) {
-        while (true) {
-            learn();
-            build();
-            debug();
-            repeat();
-        }
-    }
-}
-```
+<table align="center" border="0">
+<tr>
+  <td align="left" style="padding: 8px 16px;">💼 <b>Role</b></td>
+  <td align="left" style="padding: 8px 16px;">Java Full Stack Developer</td>
+</tr>
+<tr>
+  <td align="left" style="padding: 8px 16px;">📍 <b>Location</b></td>
+  <td align="left" style="padding: 8px 16px;">Bhadrak, Odisha, India</td>
+</tr>
+<tr>
+  <td align="left" style="padding: 8px 16px;">⚙️ <b>Stack</b></td>
+  <td align="left" style="padding: 8px 16px;">Java · Spring Boot · Angular · TypeScript · MySQL</td>
+</tr>
+<tr>
+  <td align="left" style="padding: 8px 16px;">🧰 <b>Tools</b></td>
+  <td align="left" style="padding: 8px 16px;">Git · GitHub · Maven · IntelliJ IDEA · Postman</td>
+</tr>
+<tr>
+  <td align="left" style="padding: 8px 16px;">🎯 <b>Looking for</b></td>
+  <td align="left" style="padding: 8px 16px;">Entry-level Java Full Stack role</td>
+</tr>
+</table>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-🟢_Open_to_Entry--Level_Roles-111111?style=for-the-badge" alt="Status" />
