@@ -319,11 +319,13 @@ flowchart LR
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mishra-1234&bg_color=0a0a0a&color=ef4444&line=dc2626&point=ffffff&area=true&area_color=dc2626&hide_border=true&title_color=ef4444" width="100%" alt="Contribution Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mishra-1234&theme=radical&no-frame=true&no-bg=true&margin-w=12&column=7" width="100%" alt="GitHub Trophies" />
+  <a href="https://github.com/mishra-1234?tab=followers">
+    <img src="https://img.shields.io/github/followers/mishra-1234?style=for-the-badge&logo=github&logoColor=white&color=DC2626&labelColor=0a0a0a" alt="GitHub Followers" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/mishra-1234?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-View_All-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Repositories" />
+  </a>
 </p>
 
 <p align="center">
@@ -333,7 +335,7 @@ flowchart LR
 <h2 align="center">⚡ Contribution Journey</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mishra-1234/mishra-1234/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
+  <img src="https://ghchart.rshah.org/dc2626/mishra-1234" width="100%" alt="Contribution Calendar" />
 </p>
 
 <p align="center">
